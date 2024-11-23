@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: GLV Mask Bloc
+title: GVL Mask Bloc
 
 # Your name to show in the footer
-author: GLV Mask Bloc
+author: GVL Mask Bloc
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   email: "greenvillescmaskbloc@proton.me"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# facebook: deanattali
+  facebook: greenvillescmaskbloc
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
