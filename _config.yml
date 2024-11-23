@@ -10,21 +10,20 @@
 ############################
 
 # Name of website
-title: My website
+title: GLV Mask Bloc
 
 # Your name to show in the footer
-author: Some Person
+author: GLV Mask Bloc
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Peoples CDC: "https://peoplescdc.org"
+    - COVID-19 in 2024: "https://covid-for-therapists.my.canva.site/"
 
 ################
 # --- Logo --- #
