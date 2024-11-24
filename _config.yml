@@ -20,10 +20,11 @@ author: GVL SC Mask Bloc
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  Request Masks: ""
+  Donate: ""
   Resources:
-    - Peoples CDC: "https://peoplescdc.org"
-    - COVID-19 in 2024: "https://covid-for-therapists.my.canva.site/"
+    - Why: ""
+    - Information: ""
 
 ################
 # --- Logo --- #
