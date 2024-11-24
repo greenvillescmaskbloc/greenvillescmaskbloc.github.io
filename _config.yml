@@ -20,11 +20,11 @@ author: GVL SC Mask Bloc
 ###############################################
 
 navbar-links:
-  Request Masks: ""
-  Donate: ""
+  Request Masks: "https://greenvillescmaskbloc.github.io/2024-11-24-request/"
+  Donate: "https://greenvillescmaskbloc.github.io/2024-11-21-donate/"
   Resources:
-    - Why: ""
-    - Information: ""
+    - Why: "https://greenvillescmaskbloc.github.io/2024-11-20-why/"
+    - Information: "https://greenvillescmaskbloc.github.io/2024-11-22-education/"
 
 ################
 # --- Logo --- #
