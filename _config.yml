@@ -20,11 +20,11 @@ author: GVL SC Mask Bloc
 ###############################################
 
 navbar-links:
-  Request Masks: "https://greenvillescmaskbloc.github.io/2024-11-24-request/"
-  Donate: "https://greenvillescmaskbloc.github.io/2024-11-21-donate/"
+  Request Masks: "/request/"
+  Donate: "/donate/"
   Resources:
     - Why: "https://greenvillescmaskbloc.github.io/2024-11-20-why/"
-    - Information: "https://greenvillescmaskbloc.github.io/2024-11-22-education/"
+    - Information: "/info/"
 
 ################
 # --- Logo --- #
@@ -258,7 +258,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Atlanta"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
