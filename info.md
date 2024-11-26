@@ -11,6 +11,8 @@ Here is a list of COVID related informational resources:
 
 [What to know for COVID-19 in 2024](https://covid-for-therapists.my.canva.site/)
 
+[The Sick Times reports on the Long COVID crisis](https://thesicktimes.org/)
+
 [Why you should get Novavax (if you can).](https://www.sciencedirect.com/science/article/pii/S0264410X2401185X) This study shows ~1/5 of people who recieved Novavax contracted COVID-19 in the 6 months following their vaccination while people who recieved Pfizer had ~1/3 chance to be infected.
 
 [The cheapest way to effectively filter air](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
