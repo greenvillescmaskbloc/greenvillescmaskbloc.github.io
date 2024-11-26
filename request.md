@@ -5,8 +5,10 @@ tags: [resources,support]
 comments: false
 ---
 
-[Email us to request masks, resources, or to volunteer to help!](mailto:greenvillescmaskbloc@proton.me)
+[Request masks or resources](https://cryptpad.fr/form/#/2/form/view/Q3WD4eZv02IiFJL1LAFj3-tJYtOKkDaIGXxPH96eZ6U/)
 
-[Currently we are able to provide "Medicom SafeMask Architect Pro" N95 masks rated for 8 hours of use.](https://medicom.com/product/safemask-architect-pro/?v=67424fe6d9dd4) 
+[We are currently able to provide "Medicom SafeMask Architect Pro" N95 masks rated for 8 hours of use.](https://medicom.com/product/safemask-architect-pro/?v=67424fe6d9dd4) 
 
-[Order free at home COVID tests here](https://covidtests.gov/)
+[Order free at home COVID tests from USPS here](https://covidtests.gov/)
+
+[If you are interested in volunteering with us, reach out to our email!](mailto:greenvillescmaskbloc@proton.me)
