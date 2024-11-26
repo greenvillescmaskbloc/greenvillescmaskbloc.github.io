@@ -23,8 +23,9 @@ navbar-links:
   Request Masks: "/request/"
   Donate: "/donate/"
   Resources:
-    - Why: "https://greenvillescmaskbloc.github.io/2024-11-20-why/"
+    - Why: "/2024-11-20-why/"
     - Information: "/info/"
+    - Land: "/2024-11-25-land/"
 
 ################
 # --- Logo --- #
