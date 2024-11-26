@@ -15,6 +15,8 @@ Here is a list of COVID related informational resources:
 
 [The cheapest way to effectively filter air](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
 
+[Mask Testing Data Set](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/htmlview?usp=drive_web&ouid=108355114845682180386&pru=AAABfniWips*ZW4K5ipiMBIUEgzyHDB1eA)
+
 [CPC mouthwash reduces COVID in saliva](https://www.nature.com/articles/s41598-022-18367-6)
 
 [Iota-Carrageenan Nasal Spray shows significant efficacy in preventing COVID](https://pmc.ncbi.nlm.nih.gov/articles/PMC8493111/)
