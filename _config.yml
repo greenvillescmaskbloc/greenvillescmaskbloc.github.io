@@ -18,6 +18,7 @@ author: GVL SC Mask Bloc
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+remove-ads: true
 navbar-extra: 
 - "dark.html"
 
